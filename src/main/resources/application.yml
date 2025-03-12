@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://crossover.proxy.rlwy.net:51589/railway
+    username: postgres
+    password: qtaROEzMfBedaCSegSTMiObBXHvqgbuG
